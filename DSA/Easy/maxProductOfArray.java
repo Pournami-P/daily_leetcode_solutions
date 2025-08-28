@@ -1,3 +1,4 @@
+//Day 8
 class maxProductOfArray {
     public int maxProduct(int[] nums) {
         int min=0;
@@ -13,4 +14,5 @@ class maxProductOfArray {
         int product=(min-1)*(max-1);
         return product;
     }
+
 }

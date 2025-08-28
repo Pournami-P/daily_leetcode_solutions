@@ -1,3 +1,4 @@
+//Day 1
 class palindrome {
     public boolean isPalindrome(int x) {
         if(x<0){
@@ -16,4 +17,5 @@ class palindrome {
             return false;
         }
     }
+
 }

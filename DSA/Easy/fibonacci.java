@@ -1,3 +1,4 @@
+//Day 3
 public class fibonacci {
     public int fib(int n) {
         if(n==0){
@@ -15,3 +16,4 @@ public class fibonacci {
         return firstTerm;
     }
 } 
+

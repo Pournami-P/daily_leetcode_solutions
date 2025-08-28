@@ -1,3 +1,4 @@
+//Day 2
 class powerOfTwo {
     public boolean isPowerOfTwo(int n) {
         if(n<1){
@@ -14,4 +15,5 @@ class powerOfTwo {
             }
         }
     }
+
 }

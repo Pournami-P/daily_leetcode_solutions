@@ -1,3 +1,4 @@
+//Day 10
 class missingNumberr {
     public int missingNumber(int[] nums) {
         int range=nums.length;
@@ -9,4 +10,5 @@ class missingNumberr {
         int ans=actualSum-currentSum;
         return ans;
     }
+
 }

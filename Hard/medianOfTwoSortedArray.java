@@ -1,3 +1,4 @@
+//Day 9
 class  medianOfTwoSortedArray{
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         int[] ans=merge(nums1,nums2);
@@ -34,4 +35,5 @@ class  medianOfTwoSortedArray{
         }
         return ans;
     }
+
 }

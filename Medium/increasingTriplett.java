@@ -1,3 +1,4 @@
+//Day 18
 class  increasingTriplett{
     public boolean increasingTriplet(int[] nums) {
         int first=Integer.MAX_VALUE;
@@ -18,4 +19,5 @@ class  increasingTriplett{
         }
         return false;
     }
+
 }
